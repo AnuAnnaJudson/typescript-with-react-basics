@@ -1,5 +1,5 @@
 #### To create a type script app with react use:
-    ```npx create-react-app react-typescript-demo --template typescript```
+    npx create-react-app react-typescript-demo --template typescript
 
 * unlike a regular react app, you have the extension as .tsx    
 * Components are defined in .tsx files
